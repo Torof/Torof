@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center"> ⚡ A passionate Blockchain , Ethereum and Smart Contracts developer on the path to mastery ⚡ </p>
 <br>
 
-<h1 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact" alt="languages" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact" alt="languages" />
 <br>
 
 <h1 align="center"> 🛠 DevTools 🛠 </h1>
