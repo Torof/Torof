@@ -72,10 +72,13 @@ Here are some ideas to get you started:
   </th>
 </tr>
 </table>
- 
+<p align=center>
+  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 </p>
+ 
+
 
 
  <h1  align="center"> 💻 Most Used Languages 💻</h1> 
