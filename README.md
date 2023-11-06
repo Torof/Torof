@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">< DevTools 🛠></h1>
   <br>
-<h3 align="center"> 
+<p> 
 <colgroup>
   <col span=2>
 </colgroup>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-</h3>
+</p>
 
 
  <h1  align="center"> 💻 Most Used Languages 💻</h1> 
