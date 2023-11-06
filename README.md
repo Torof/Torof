@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">< DevTools 🛠></h1>
   <br>
 <p> 
-  <table>
+  <table align=center>
 <colgroup>
   <col span=2>
 </colgroup>
