@@ -22,6 +22,19 @@ Here are some ideas to get you started:
 <h1 align="center">< DevTools 🛠></h1>
   <br>
 <h3 align="center"> 
+<colgroup>
+  <col span=2>
+</colgroup>
+<tr>
+  <th>
+    
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    </th>
+  <th>
+
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+    </th>
+</tr>
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -37,16 +50,16 @@ Here are some ideas to get you started:
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
      ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 </h3>
-<p align="center">
+<h3 align="center">
  
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- </p>
- <p align="center">
+ </h3>
+ <h3 align="center">
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- </p>  
+ </h3>  
 
  <h1  align="center"> 💻 Most Used Languages 💻</h1> 
  
