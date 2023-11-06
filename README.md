@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">< DevTools 🛠></h1>
   <br>
 <p> 
+  <table>
 <colgroup>
   <col span=2>
 </colgroup>
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   </th>
 </tr>
+</table>
  
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
