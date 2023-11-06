@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center"> ⚡ A passionate Blockchain , Ethereum and Smart Contracts developer ⚡ </p>
 <br>
 
-<h1 align="center">< DevTools 🛠></h1>
+<h1 align="center"> 🛠 DevTools 🛠 </h1>
   <br>
 <p> 
   <table align=center>
@@ -36,6 +36,13 @@ Here are some ideas to get you started:
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   </th>
   <th>
+  
+  ![Foundry](https://img.shields.io/badge/foundry-grey.svg?style=for-the-badge&logo=solidity&logoColor=grey)
+  </th>
+    
+</tr>
+<tr>
+    <th>
 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   </th>
@@ -47,7 +54,6 @@ Here are some ideas to get you started:
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   </th>
-    
 </tr>
 <tr>
   <th>
