@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p> 
   <table align=center>
 <colgroup>
-  <col span=2>
+  <col span=3>
 </colgroup>
 <tr>
   <th>
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   </th>
   <th>
-   
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   </th>
   <th>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <tr>
   <th>
 
-  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   </th>
   <th>
 
@@ -79,7 +79,8 @@ Here are some ideas to get you started:
 
 
  <h1  align="center"> 💻 Most Used Languages 💻</h1> 
+
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact" alt="languages" /></p>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact)
    <br>
     
