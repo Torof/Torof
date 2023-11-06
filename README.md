@@ -37,15 +37,12 @@ Here are some ideas to get you started:
   </th>
   <th>
   
-  ![Foundry](https://img.shields.io/badge/foundry-grey.svg?style=for-the-badge&logo=solidity&logoColor=grey)
+  ![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=solidity&logoColor=white)
   </th>
     
 </tr>
 <tr>
-    <th>
 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  </th>
   <th>
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -53,6 +50,10 @@ Here are some ideas to get you started:
   <th>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  </th>
+    <th>
+    
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   </th>
 </tr>
 <tr>
@@ -68,14 +69,7 @@ Here are some ideas to get you started:
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   </th>
-  <th>
-    
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  </th>
-  <th>
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  </th>
+
 </tr>
 </table>
 <p align=center>
