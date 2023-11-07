@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> ⚡ <b> A passionate Blockchain , Ethereum and Smart Contracts developer on the path to mastery </b> ⚡ </p>
+<p align="center"> 
+  ⚡ <b> A passionate Blockchain , Ethereum and Smart Contracts developer on the path to mastery </b> ⚡ 
+</p>
 
-<p align="center"> I strongly believe in : </p>
+<p align="center"> 
+  I strongly believe in : 
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Ethereum-blue?style=for-the-badge&logo=ethereum"/>
   <img src="https://img.shields.io/badge/Bitcoin-grey?style=for-the-badge&logo=bitcoin"/>
@@ -26,12 +30,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact&theme=dracula" alt="languages" />
-<br>
-
 <h2 align="center"> 🛠 DevTools 🛠 </h1>
 
-  <div align="center">
+<div align="center">
 
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Foundry](https://img.shields.io/badge/Foundry-black?style=for-the-badge&logo=solidity&logoColor=white)
@@ -41,8 +42,14 @@ Here are some ideas to get you started:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  </div>
+</div>
+
+<h3> My stats </h3>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact&theme=dracula" alt="languages" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Torof&show_icons=true&theme=dracula" alt="stats" />
+</div>
+  
 
 
-<p> 
  
