@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 <h3> My stats </h3>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact&theme=dracula" alt="languages" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=Torof&show_icons=true&theme=dracula" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torof&layout=compact&theme=aura" alt="languages" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Torof&show_icons=true&theme=dracula&rank_icon=github" alt="stats" />
 </div>
   
 
