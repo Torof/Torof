@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> 
-  I strongly believe in : 
+  <b>I use : </b>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Ethereum-blue?style=for-the-badge&logo=ethereum"/>
