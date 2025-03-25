@@ -2,16 +2,9 @@
 
 ## 👋 Hello there!
 
-I'm a Blockchain Developer specialized in smart contracts. I have extensive knowledge of the blockchain development standards around and I'm an expert in tokens (ERC20, NFTs). I perform security audits and have deep understanding of the EVM and opcodes. I'm also proficient in Solana development.
+👨‍💻 Smart contract wizard obsessed with crafting secure, elegant blockchain solutions. I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs. My code runs on both Ethereum (my first love) and Solana. When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3. Blockchain isn't just what I do—it's who I am.
 
-I can build complete fullstack DApps from scratch, write comprehensive tests, and implement data solutions with Graph & Subgraphs. Programming is more than just a job for me - it's a passion that drives me to work hard and make things happen.
-
-## 🌐 Languages
-- 🇫🇷 French (Native)
-- 🇬🇧 English (Fluent)
-- 🇪🇸 Spanish (Fluent)
-
-## 💻 Tech Stack
+## 💻 My Stack
 
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -22,17 +15,16 @@ I can build complete fullstack DApps from scratch, write comprehensive tests, an
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -46,20 +38,12 @@ I can build complete fullstack DApps from scratch, write comprehensive tests, an
 
 ## 🌱 Currently Learning
 
-- Advanced ZK-proofs and ZK-rollups
-- Advanced Solana ecosystem development 
-- MEV protection techniques
+- Substrate for Polkadot
+- Advanced Solana ecosystem development
 - Layer 2 scaling solutions
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-devines/)
 
-## ⚡ Fun fact
 
-<!-- Add a fun fact about yourself here, it helps make your profile more personable! -->
-
----
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=torof.torof)
