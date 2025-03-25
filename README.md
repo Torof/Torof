@@ -2,7 +2,12 @@
 
 ## 👋 Hello there!
 
-👨‍💻 Smart contract wizard obsessed with crafting secure, elegant blockchain solutions. I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs. My code runs on both Ethereum (my first love) and Solana. When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3. Blockchain isn't just what I do—it's who I am.
+👨‍💻 Smart contract wizard obsessed with crafting secure, elegant blockchain solutions. 
+I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs. 
+My code runs on both Ethereum (my first love) and Solana. 
+When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3 and its new protocols.
+
+Blockchain isn't just what I do — it's who I am.
 
 ## 💻 My Stack
 
