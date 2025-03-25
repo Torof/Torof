@@ -1,7 +1,5 @@
 # Torof
 
-## 👋 Hello there!
-
 👨‍💻 Smart contract wizard obsessed with crafting secure, elegant blockchain solutions. 
 I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs. 
 My code runs on both Ethereum (my first love) and Solana. 
