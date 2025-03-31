@@ -32,11 +32,13 @@ Blockchain isn't just what I do — it's who I am.
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<!--
 ## 🔥 Recent Projects
 
 - **[Project Name]** - A brief description of what this project does and what technologies were used. [View Repo](https://github.com/torof/repo-link)
 - **[Project Name]** - A brief description of what this project does and what technologies were used. [View Repo](https://github.com/torof/repo-link)
 - **[Project Name]** - A brief description of what this project does and what technologies were used. [View Repo](https://github.com/torof/repo-link)
+-->
 
 ## 🌱 Currently Learning
 
