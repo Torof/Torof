@@ -56,51 +56,6 @@ I bring DApps to life from zero to launch—architecting contracts, building fro
   </tr>
 </table>
 
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">RetroToken DApp</h3>
-      <div align="center">
-        <a href="https://github.com/torof/RetroToken" target="_blank">
-          <img src="https://github.com/torof/RetroToken/raw/main/frontend/public/retrotoken.png" width="100%" alt="RetroToken screenshot"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/torof/RetroToken" target="_blank">
-            <img src="https://img.shields.io/badge/Code-GitHub-3A3B3C?style=for-the-badge&logo=github" alt="GitHub Repo"/>
-          </a>  
-          <a href="https://retrotoken-demo.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-5DADE2?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Solidity, Next.js, TypeScript, The Graph, wagmi, RainbowKit</strong> - A retro-styled ERC20 DApp with minting, burning, and transfers. Features persistent transaction history through subgraph integration.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Placeholder</h3>
-      <div align="center">
-        <a href="https://github.com/torof" target="_blank">
-          <img src="https://dummyimage.com/600x300/000/fff&text=Coming+Soon" width="100%" alt="Project screenshot"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/torof" target="_blank">
-            <img src="https://img.shields.io/badge/Code-GitHub-3A3B3C?style=for-the-badge&logo=github" alt="GitHub Repo"/>
-          </a>  
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-5DADE2?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-          </a>
-        </p>
-        <p><strong>Tech stack placeholder</strong> - A brief description of your upcoming project. Showcase your vision and the tech stack you plan to use.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 💼 Experience & Expertise
 
 - **Smart Contract Architecture** — Designing secure, gas-efficient contracts with focus on best practices and audit readiness
@@ -116,13 +71,6 @@ I bring DApps to life from zero to launch—architecting contracts, building fro
 - **Layer 2 Solutions** — Implementing solutions on zkSync, Optimism, and StarkNet
 - **Account Abstraction (ERC-4337)** — Creating better user experiences with smart contract wallets
 - **Zero-Knowledge Proofs** — Applying privacy and scalability solutions to blockchain applications
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torof&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torof&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 📫 Let's Connect
 
