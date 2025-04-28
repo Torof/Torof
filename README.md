@@ -7,7 +7,7 @@
 <br>
 I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs and backends.
 <br>
-My code runs on both Ethereum (my first love) and Solana. 
+My code runs on both Ethereum (my first love) and Solana. Polkadot in learning.
 <br><br>
 When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3 and its new protocols.
 <br><br>
