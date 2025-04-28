@@ -2,19 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6D44F2&center=true&vCenter=true&random=false&width=600&height=100&lines=Blockchain+Developer;Smart+Contract+Architect;DApp+Engineer" alt="Typing SVG" />
 </div>
 
-# 👋 Hello, I'm Torof
-
+# 👋 Hello, I'm Scott
 > 👨‍💻 Smart contract wizard obsessed with crafting secure, elegant blockchain solutions.
-
-I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs. My code runs on both Ethereum (my first love) and Solana. When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3 and its new protocols.
-
-**Blockchain isn't just what I do — it's who I am.**
-
+<br>
+I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs and backends.
+<br>
+My code runs on both Ethereum (my first love) and Solana. 
+<br><br>
+When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3 and its new protocols.
+<br><br>
+<div align="center"><strong>Blockchain isn't just what I do — it's who I am.</strong></div>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/scott-devines/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="solidity.dev@proton.me">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </div>
