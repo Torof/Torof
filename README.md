@@ -11,7 +11,7 @@ My code runs on both Ethereum (my first love) and Solana. Polkadot in learning.
 <br><br>
 When I'm not optimizing gas fees or auditing protocols, I'm exploring the cutting edge of Web3 and its new protocols.
 <br><br>
-<div align="center"><strong>Blockchain isn't just what I do — it's who I am.</strong></div>
+<div align="center"><strong>With a passion for decentralization, Blockchain isn't just what I do — it's who I am.</strong></div>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/scott-devines/">
