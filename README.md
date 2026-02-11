@@ -67,13 +67,6 @@ When I'm not optimizing gas fees or auditing protocols, I'm exploring the cuttin
 - **Subgraph Development** — Indexing blockchain data for efficient querying and improved DApp performance
 - **Protocol Design** — Architecting innovative DeFi and NFT protocols with security, scalability, and user experience in mind
 
-## 🌱 Currently Exploring
-
-- **Substrate for Polkadot** — Building custom blockchains with the Substrate framework
-- **Advanced Solana Ecosystem** — Diving deeper into Anchor, SPL tokens, and Solana Program Library
-- **Layer 2 Solutions** — Implementing solutions on zkSync, Optimism, and StarkNet
-- **Account Abstraction (ERC-4337)** — Creating better user experiences with smart contract wallets
-- **Zero-Knowledge Proofs** — Applying privacy and scalability solutions to blockchain applications
 
 ## 📫 Let's Connect
 
