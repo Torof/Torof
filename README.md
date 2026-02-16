@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6D44F2&center=true&vCenter=true&random=false&width=600&height=100&lines=Blockchain+Developer;Smart+Contract+Architect;DApp+Engineer" alt="Typing SVG" />
 </div>
 
-# 👋 Hello, I'm Scott
 > 👨‍💻 Smart contract wizard obsessed with crafting secure, elegant blockchain solutions.
 <br>
 I bring DApps to life from zero to launch—architecting contracts, building frontends, and connecting the dots with subgraphs and backends.
