@@ -21,9 +21,9 @@ When I'm not optimizing gas fees or auditing protocols, I'm exploring the cuttin
 - **Full-Stack Web App Development** — Building websites from end to end
 - **Full-Stack DApp Development** — Building intuitive Web3 frontends that connect seamlessly to on-chain logic
 - **Security Audit** — Finding critical bugs or issues before real world deployement
-- **DeFi Protocol Design** — Architecting innovative DeFi and NFT protocols with security, scalability, and user experience in mind
+- **DeFi Protocol Design** — Architecting DeFi protocols with security, scalability, and user experience in mind
 - **Smart Contract Architecture** — Designing secure, gas-efficient contracts with focus on best practices and audit readiness
-- **Cross-Chain Development** — Creating solutions for both EVM (Ethereum, Polygon, Arbitrum) and non-EVM (Solana) ecosystems
+- **Cross-Chain Development** — Creating solutions for both EVM and non-EVM ecosystems
 - **Subgraph Development** — Indexing blockchain data for efficient querying and improved DApp performance
 
 ## 🛠️ Tech Stack
